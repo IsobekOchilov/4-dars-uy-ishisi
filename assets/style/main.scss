@@ -435,13 +435,15 @@
             font-weight: 500;
             line-height: normal;
         }
-        .ijt i{
+
+        .ijt i {
             color: rgb(255, 255, 255);
             width: 34px;
             font-size: 35px;
             margin-top: 5px;
             // background-color: white;
         }
+
         .ijt p {
             gap: 15px;
             color: #FFF;
@@ -452,10 +454,16 @@
             font-weight: 400;
             line-height: normal;
         }
+
         .ijt {
             margin-left: 80px;
             margin-top: 40px;
         }
     }
 
+    hr {
+        width: 1110px;
+        height: 1px;
+        margin: 0 auto;
+    }
 }
